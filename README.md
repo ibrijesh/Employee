@@ -42,12 +42,15 @@ docker-compose up -d --build
 ### Step 4
 - go to your favourite browser and  type
 ```
-http://localhost:5000/api-docs      ( testing api using swagger ui)
+http://localhost:5000/api-docs      
 ```
+- testing api using swagger ui
 
 ```
-http://localhost:5000      ( testing using postman or some other application)
+http://localhost:5000      
 ```
+
+- testing using postman or some other application
 <br>
 <br>
 
