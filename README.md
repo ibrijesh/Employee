@@ -9,7 +9,7 @@
 
 # To run this project on your system , follow the below steps.
 
-## Requirements
+## ✅ Requirements
 
 - git
 - docker
