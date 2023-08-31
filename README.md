@@ -19,6 +19,9 @@
 - docker
 - docker-compose
 
+## ❌ How to Avoid  Common Error  
+- Make sure that  no other  process is already running on ports 5000, 27010
+
 ### Steps 1
 ```
 git clone https://github.com/ibrijesh/Employee.git
@@ -58,6 +61,4 @@ http://localhost:5000
 <br>
 <br>
 
-## ❌ How to Avoid  Common Error  
-- Make sure that  no other  process is already running on ports 5000, 27010
 
