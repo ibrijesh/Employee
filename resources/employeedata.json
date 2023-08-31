@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "brijesh",
+        "lastName": "yadav",
+        "email": "brijesh21e@gmail.com",
+        "salary": 4445443343.99,
+        "startDate": "2022-10-05T00:00:00.000Z"
+    },
+    {
+        "firstName": "ramesh",
+        "lastName": "kumar",
+        "email": "ramesh@hotmail.com",
+        "salary": 3483472349.23743,
+        "startDate": "2021-02-03T00:00:00.000Z"
+    },
+    {
+        "firstName": "ashish",
+        "lastName": "singh",
+        "email": "ashish.singh12@hotmail.com",
+        "salary": 43238234.2343,
+        "startDate": "2020-02-11T00:00:00.000Z"
+    },
+    {
+        "firstName": "manoj",
+        "lastName": "rana",
+        "email": "manoj.rana05@proton.com",
+        "salary": 898938432.3423,
+        "startDate": "2022-08-02T00:00:00.000Z"
+    },
+    {
+        "firstName": "ram",
+        "lastName": "sharma",
+        "email": "ram.sharma99@outlook.com",
+        "salary": 34238083.32423,
+        "startDate": "2002-02-02T00:00:00.000Z"
+    },
+    {
+        "firstName" : "Raju",
+        "lastName" : "Srivastava",
+        "email": "raju.111999@outlook.com",
+        "salary": 44434380.32423,
+        "startDate": "2005-07-09"
+    },
+    {
+        "firstName" : "Cristiano",
+        "lastName" : "Ronaldo",
+        "email": "cr7.rocks@outlook.com",
+        "salary": 98989844434380.32423,
+        "startDate": "1985-05-03"
+    }
+]

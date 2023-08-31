@@ -1,0 +1,22 @@
+version: '3'
+services:
+  employee-database:
+    container_name: employee-database
+    image: mongo
+    ports:
+      - 27010:27017
+    restart: always   
+
+
+  node-backend: 
+    container_name: nodejs
+    build: 
+      context: ./
+      dockerfile: ./resources/Dockerfile
+    ports:
+      - "5000:5000"
+    restart: always   
+    depends_on:
+       - employee-database
+    links:
+       - employee-database
