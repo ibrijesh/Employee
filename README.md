@@ -44,13 +44,13 @@ docker-compose up -d --build
 ```
 http://localhost:5000/api-docs      
 ```
-- testing api using swagger ui
+- for testing api using swagger ui
 
 ```
 http://localhost:5000      
 ```
 
-- testing using postman or some other application
+- for testing using postman or some other application
 <br>
 <br>
 
