@@ -1,6 +1,6 @@
 # Employee Crud Operation
 
-### Demo application for performing crud operation on employee 
+### Demo application for performing crud operation on employee details
 
 <br>
 
