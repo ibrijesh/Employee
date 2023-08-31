@@ -4,6 +4,8 @@
 
 https://youtu.be/ZInWj3Wbrak
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZInWj3Wbrak/0.jpg)](https://youtu.be/ZInWj3Wbrak)
+
 <br>
 
 <br>
