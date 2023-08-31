@@ -24,6 +24,8 @@
 ## ❌ How to Avoid  Common Error  
 - Make sure that  no other  process is already running on ports 5000, 27010
 
+  <br>
+
 ### Steps 1
 ```
 git clone https://github.com/ibrijesh/Employee.git
